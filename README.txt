@@ -1,4 +1,4 @@
-# Afinador de Señales de Audio 🎵
+# Afinador de Señales de Audio 
 
 Este proyecto es un **afinador de audio** desarrollado en Python que permite analizar señales de sonido y detectar la frecuencia fundamental, mostrando la nota musical correspondiente mediante una interfaz gráfica.
 
